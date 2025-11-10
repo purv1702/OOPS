@@ -1,2 +1,4 @@
-# OOPS
-OOPS project
+**Student name:** Purv Gothi
+**Reg. No.:** 2428010214
+**Section:** C
+**Subject:** OOPS in C++
